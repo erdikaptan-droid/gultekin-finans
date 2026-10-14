@@ -1,0 +1,13 @@
+{
+  "name": "GÜLTEKİN Kişisel Finans",
+  "short_name": "GÜLTEKİN",
+  "description": "Kişisel gelir, gider, kredi kartı ve borç takibi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f1",
+  "theme_color": "#14251e",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
